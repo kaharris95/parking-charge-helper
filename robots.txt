@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaharris95.github.io/parking-charge-helper/sitemap.xml
